@@ -1,7 +1,7 @@
 ---
-title: "CV"
+title: "Blog"
 layout: archive
 permalink: /cv/
 author_profile: true
 ---
-This is Shaobo's blog CV
+This is Shaobo's blog page
