@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hungry for Knowledge and Mind"
+title                    : "Hungry for Knowledge and Mind!"
 title_separator          : "-"
 name                     : "Shaobo Cui"
 description              : "An amazing website."
@@ -97,11 +97,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master student in Data Science at Tsinghua University"
-  location         : "Somewhere"
-  email            :
+  name             : "Shaobo Cui"
+  avatar           : /assets/images/shaobo.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Master student, Data Science and Information Technology, Tsinghua University"
+  location         : #"Somewhere"
+  email            : #myname + 16 [at]mails.tsinghua.edu.cn
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
