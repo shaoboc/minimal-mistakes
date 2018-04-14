@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: archive
-permalink: /cv/
+permalink: /blog/
 author_profile: true
 ---
 This is Shaobo's blog page
