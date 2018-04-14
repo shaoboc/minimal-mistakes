@@ -1,7 +1,7 @@
 ---
 title: "CV"
 layout: archive
-permallik: /cv/
+permalink: /cv/
 author_profile: true
 ---
 This is Shaobo's blog page
